@@ -32,7 +32,3 @@ Sou desenvolvedor full-stack, com foco em criar sistemas inovadores e funcionais
 - **Frameworks e Tecnologias**: React, Express.js, MongoDB, PostgreSQL, Firebase  
 - **Ferramentas**: Git, Docker, Kubernetes, Jenkins, CI/CD
 
-## 🔗 Links
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
